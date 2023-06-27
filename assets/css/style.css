@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bool-background: #f6f8f9;
+}
+
+/* #region header */
+
+.logo {
+    margin: 1rem;
+}
+
+.logo img {
+    vertical-align: middle;
+}
+
+.logo h1 {
+    display: inline-block;
+}
+
+/* #endregion header */
