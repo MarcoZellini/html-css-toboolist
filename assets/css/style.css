@@ -91,11 +91,12 @@ body {
 }
 
 .logo img {
-    vertical-align: middle;
+    vertical-align: -70%;
 }
 
 .logo h1 {
     display: inline-block;
+    font-size: 40px;
 }
 
 /* #endregion header */
